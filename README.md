@@ -1,3 +1,8 @@
 # avanading
-#Repository for Source Control Tutorial in Velocity Program
-<b>Owned by Rebeca Buarque</b>
+#Repository for Source Control Tutorial in Velocity Program <hr>
+To do List
+- [x] Create a Read Me
+- [x] Lean git status, add, commit, clone and push
+<b>Owned by Rebeca Buarque</b> <hr>
+
+
