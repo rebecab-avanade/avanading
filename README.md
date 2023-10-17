@@ -3,6 +3,7 @@
 To do List
 - [x] Create a Read Me
 - [x] Lean git status, add, commit, clone and push
-<b>Owned by Rebeca Buarque</b> <hr>
+<hr>
+<b>Owned by Rebeca Buarque</b> 
 
 
